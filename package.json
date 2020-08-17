@@ -1,0 +1,14 @@
+{
+    "name": "first-node-project",
+    "version": "1.0.0",
+    "description": "Learning node.js",
+    "main": "lesson2.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cities": "^2.0.0"
+    }
+}
